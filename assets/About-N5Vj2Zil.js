@@ -1,0 +1,1 @@
+import{u as i,t as o,b as t,i as s,f as c,h as d,j as l}from"./index-BEI3rwpH.js";var v="_1epdxkz1",m="_1epdxkz2",p="_1epdxkz3",u=o("<div><div></div><div>");const g=()=>{const{t:r}=i();return(()=>{var e=u(),a=e.firstChild,n=a.nextSibling;return t(e,v),t(a,m),s(a,()=>r("constructing")),t(n,p),s(n,c(l,{icon:d})),e})()};export{g as default};
