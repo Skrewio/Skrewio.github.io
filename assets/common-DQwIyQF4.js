@@ -1,0 +1,1 @@
+const t="🚧 Cette page est en construction 🚧",s={error:{title:"Erreur",apiUnknown:"Quelque chose s'est mal passé..."},success:{title:"Succès"}},e={constructing:t,toast:s};export{t as constructing,e as default,s as toast};

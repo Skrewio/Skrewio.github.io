@@ -1,0 +1,1 @@
+const i="Échec de la vérification",e="Je ne suis pas un robot",o="Vérifié",c="Vérification en cours...",n={error:i,label:e,verified:o,verifying:c};export{n as default,i as error,e as label,o as verified,c as verifying};
