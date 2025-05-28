@@ -1,1 +1,0 @@
-import{u as o,t as i,b as t,i as r,e as c,h as m,F as d}from"./index-D0GWaPSE.js";var l="_1epdxkz1",v="_1epdxkz2",p="_1epdxkz3",u=i("<div><div></div><div>");const g=()=>{const{tr:s}=o();return(()=>{var e=u(),a=e.firstChild,n=a.nextSibling;return t(e,l),t(a,v),r(a,()=>s("common.constructing")),t(n,p),r(n,c(d,{icon:m})),e})()};export{g as default};
